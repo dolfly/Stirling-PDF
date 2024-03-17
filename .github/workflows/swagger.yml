@@ -5,9 +5,6 @@ on:
   push:
     branches:
       - master
-    paths-ignore:
-      - ".github/**"
-      - "**/*.md"
 jobs:
   push:
 
